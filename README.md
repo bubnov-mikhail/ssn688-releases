@@ -15,6 +15,8 @@ Open **[Releases](https://github.com/bubnov-mikhail/ssn688-releases/releases)** 
 | `ssn688-*-windows-amd64.exe` | Windows 64-bit |
 | `ssn688-*-windows-386.exe` | Windows 32-bit |
 | `ssn688-*-android-debug.apk` | Android (debug APK) |
+| `ssn688-*-manual-en.pdf` | Player manual (English) |
+| `ssn688-*-manual-ru.pdf` | Player manual (Russian) |
 
 Ignore the auto-generated **Source code (zip/tar.gz)** links on each release — they only contain this README, not the game.
 
